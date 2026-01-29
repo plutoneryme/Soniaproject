@@ -1,0 +1,40 @@
+#restaurant{
+ color: brown;
+ text-align: center;
+ text-decoration: underline brown;
+}
+
+#par1{
+ text-align: center;
+ text-decoration: none;
+ padding-top: 200px;
+ font-size: 20px;
+}
+
+a{
+ text-decoration: none;
+ color: beige;
+}
+
+
+ a:hover{
+  text-decoration: none;
+  color: rgb(133, 133, 185);
+ }
+
+ .nav-link:hover{
+  text-decoration: underline;
+  color: blue;
+ }
+
+ .background-container {
+  background-image: url("images/event.jpg");
+  background-size: cover; /* Ensures the image covers the entire container */
+  background-position: center; /* Centers the image */
+  height: 600px; /* Define a height for the container */
+  display: flex; /* Use flexbox to center the text easily */
+  justify-content: center;
+  align-items: center;
+  
+  text-align: center;
+}
