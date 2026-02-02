@@ -42,7 +42,7 @@ a{
   display: flex; /* Use flexbox to center the text easily */
   justify-content: center;
   align-items: center;
-  
+  background-repeat: no-repeat;
   text-align: center;
 }
 
