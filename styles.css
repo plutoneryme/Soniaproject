@@ -150,7 +150,11 @@ marquee{
     font-weight: 30px;
    }
 
-  
+    .socials{
+     border-color: aliceblue;    
+   }
+
+    
 
    .socials:hover{
      filter: brightness(90%) saturate(100%) invert(90%) sepia(55%) saturate(6167%) hue-rotate(356deg);
