@@ -150,8 +150,11 @@ marquee{
     font-weight: 30px;
    }
 
+  
+
    .socials:hover{
-     filter: brightness(0) saturate(100%) invert(50%) sepia(44%) saturate(6167%) hue-rotate(356deg);
+     filter: brightness(90%) saturate(100%) invert(90%) sepia(55%) saturate(6167%) hue-rotate(356deg);
+     
    }
 
    .form-container{
